@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/dragalia-lost/static/js/runtime~main.79c16a3f.js"
   },
   {
-    "revision": "7533a1653844a4fe2f80",
-    "url": "/dragalia-lost/static/js/main.7533a165.chunk.js"
+    "revision": "058087f0812f75841f2b",
+    "url": "/dragalia-lost/static/js/main.058087f0.chunk.js"
   },
   {
     "revision": "22c5aec636e213cfaafe",
     "url": "/dragalia-lost/static/js/1.22c5aec6.chunk.js"
   },
   {
-    "revision": "7533a1653844a4fe2f80",
+    "revision": "058087f0812f75841f2b",
     "url": "/dragalia-lost/static/css/main.3e0aec57.chunk.css"
   },
   {
-    "revision": "b5892382a6d94fce5f8fa2d7f1a62624",
+    "revision": "4ab159ee64e7960d8e19e3023c9a82ea",
     "url": "/dragalia-lost/index.html"
   }
 ];
