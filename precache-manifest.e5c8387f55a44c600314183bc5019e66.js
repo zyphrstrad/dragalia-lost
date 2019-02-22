@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dragalia-lost/static/css/main.114c2c0f.chunk.css"
   },
   {
-    "revision": "50d72239bf7788e7a4b7798c8f00ab2b",
+    "revision": "3846c4c408b5651a6e675cb3c508248c",
     "url": "/dragalia-lost/index.html"
   }
 ];
