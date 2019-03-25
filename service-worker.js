@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dragalia-lost/precache-manifest.b4273907ccee93fa5eb5f8e1b414fc47.js"
+  "/dragalia-lost/precache-manifest.a84375f073c083363214d80ddba1527a.js"
 );
 
 workbox.clientsClaim();
