@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "500835f44bf5aab1adb057d00b104c2d",
+    "revision": "bc7a8f478e127e503bae9e672f66ad90",
     "url": "/dragalia-lost/index.html"
   },
   {
