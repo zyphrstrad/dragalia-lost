@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dragalia-lost/static/css/main.4bb3fda9.chunk.css",
-    "main.js": "/dragalia-lost/static/js/main.d1dad775.chunk.js",
-    "main.js.map": "/dragalia-lost/static/js/main.d1dad775.chunk.js.map",
+    "main.js": "/dragalia-lost/static/js/main.567c7e3f.chunk.js",
+    "main.js.map": "/dragalia-lost/static/js/main.567c7e3f.chunk.js.map",
     "runtime~main.js": "/dragalia-lost/static/js/runtime~main.c60f60f1.js",
     "runtime~main.js.map": "/dragalia-lost/static/js/runtime~main.c60f60f1.js.map",
     "static/js/2.de1ccd49.chunk.js": "/dragalia-lost/static/js/2.de1ccd49.chunk.js",
     "static/js/2.de1ccd49.chunk.js.map": "/dragalia-lost/static/js/2.de1ccd49.chunk.js.map",
     "index.html": "/dragalia-lost/index.html",
-    "precache-manifest.c2a9ab3829990381f226988ff4353c50.js": "/dragalia-lost/precache-manifest.c2a9ab3829990381f226988ff4353c50.js",
+    "precache-manifest.962989fc42d134ac13e0ba781451e63e.js": "/dragalia-lost/precache-manifest.962989fc42d134ac13e0ba781451e63e.js",
     "service-worker.js": "/dragalia-lost/service-worker.js",
     "static/css/main.4bb3fda9.chunk.css.map": "/dragalia-lost/static/css/main.4bb3fda9.chunk.css.map"
   }
