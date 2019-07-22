@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19e50f336baeb98869e012f1db14b410",
+    "revision": "0b235d500662aee7af7b8d51a5c0e966",
     "url": "/dragalia-lost/index.html"
   },
   {
-    "revision": "eb4ffc5541991230c693",
+    "revision": "795ff1b05ae8c0f771e7",
     "url": "/dragalia-lost/static/css/main.1be49c96.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dragalia-lost/static/js/2.ab6f7b12.chunk.js"
   },
   {
-    "revision": "eb4ffc5541991230c693",
-    "url": "/dragalia-lost/static/js/main.76eaebf4.chunk.js"
+    "revision": "795ff1b05ae8c0f771e7",
+    "url": "/dragalia-lost/static/js/main.b680c6aa.chunk.js"
   },
   {
     "revision": "3a9e9a4a212d25debc68",
