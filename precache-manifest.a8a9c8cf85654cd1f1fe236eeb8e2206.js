@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a541ab4a86a25cba89edbfb006bd33bd",
+    "revision": "b1f71ea2b603abdcd4becbb4de899e7c",
     "url": "/dragalia-lost/index.html"
   },
   {
-    "revision": "c4e4aa9ef82a55eb899e",
+    "revision": "d979262662f4dbed6bf1",
     "url": "/dragalia-lost/static/css/main.8bd33984.chunk.css"
   },
   {
@@ -20,19 +20,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dragalia-lost/static/js/4.3802f86a.chunk.js"
   },
   {
-    "revision": "8ef464c2d75214957be8",
-    "url": "/dragalia-lost/static/js/5.ff57b045.chunk.js"
+    "revision": "680a3de8508a1cf2560f",
+    "url": "/dragalia-lost/static/js/5.270b96e4.chunk.js"
   },
   {
     "revision": "b3b7d45b30e7c07ca8ca",
     "url": "/dragalia-lost/static/js/6.c1ac83fe.chunk.js"
   },
   {
-    "revision": "c4e4aa9ef82a55eb899e",
-    "url": "/dragalia-lost/static/js/main.9ed3819e.chunk.js"
+    "revision": "d979262662f4dbed6bf1",
+    "url": "/dragalia-lost/static/js/main.00c53dc2.chunk.js"
   },
   {
-    "revision": "36f89fbbcca8872ad815",
-    "url": "/dragalia-lost/static/js/runtime~main.d580f376.js"
+    "revision": "66e8e3861bf418fc65f4",
+    "url": "/dragalia-lost/static/js/runtime~main.da562e39.js"
   }
 ]);
